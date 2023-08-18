@@ -49,4 +49,4 @@ o How do computational graphics and visualizations give you new knowledge
 and skills that can be applied in your future professional pathway?
 Computational graphics and visualizations gave me the skills and knowledge to
 further my skills that could be used for creating innovative video games and
-different training exercises using VR.
+different training exercises using VR...
